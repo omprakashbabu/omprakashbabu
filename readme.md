@@ -10,7 +10,7 @@
 - 💬 Ask me about **C and C++**
 
 - 📫 How to reach me **ob5403@srmist.edu.in
-                        omprakashb2k5@gmail.com**
+                        , omprakashb2k5@gmail.com**
 
 - ⚡ Fun fact **I'm a funny person , I handle things cool**
 
