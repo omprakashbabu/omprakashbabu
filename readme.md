@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I'm a funny person , I handle things cool**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.instagram.com/mr_sigma_rises/ </h3>
 <p align="left">
 </p>
 
