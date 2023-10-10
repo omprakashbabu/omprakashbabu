@@ -15,7 +15,8 @@
 - ⚡ Fun fact **I'm a funny person , I handle things cool**
 
 <h3 align="left">Connect with me:
-  https://www.instagram.com/mr_sigma_rises/ https://www.linkedin.com/in/omprakash-b-731326254/</h3>
+  https://www.instagram.com/mr_sigma_rises/
+  https://www.linkedin.com/in/omprakash-b-731326254/</h3>
 
 
 <p align="left">
