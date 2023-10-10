@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omprakashbabu" alt="omprakashbabu" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript , Java , Postgresql**
 
 - 💬 Ask me about **C and C++**
 
 - 📫 How to reach me **ob5403@srmist.edu.in**
 
-- ⚡ Fun fact **I'm a funny person**
+- ⚡ Fun fact **I'm a funny person , I handle things cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
