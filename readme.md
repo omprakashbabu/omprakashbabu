@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **I'm a funny person , I handle things cool**
 
+- https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true
+
 <h3 align="left">Connect with me:
   <a href="https://www.instagram.com/mr_sigma_rises/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a>
