@@ -36,7 +36,10 @@
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 ![](https://i.gifer.com/44zG.gif)
-<iframe src="https://gifer.com/embed/44zG" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<p align="center">
+   <iframe src="https://gifer.com/embed/44zG" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakashbabu&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="omprakashbabu" /></p>
 
