@@ -1,4 +1,4 @@
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFuaGkxdWdqbGR4YjZpN3NsN3pxbzl4NnUxY3R1bnp6MWExNTlleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.webp)
+![](https://giphy.com/gifs/haydiroket-animated-haydiroket-1LYS8RmnsFwg8)
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 <h1 align="center">Wassup y'all👋, I'm Omprakash B</h1> 
 <h3 align="center">A passionate fullstack developer from India</h3>
