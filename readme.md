@@ -1,4 +1,4 @@
-![](![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true))
+![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 <h1 align="center">Wassup y'all👋, I'm Omprakash B</h1> 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
