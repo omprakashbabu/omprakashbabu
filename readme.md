@@ -39,6 +39,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshak-b&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="harshak-b" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omprakashbabu&show_icons=true&locale=en" alt="omprakashbabu" /></p>
+<p>&nbsp;<img align="center" src="https://camo.githubusercontent.com/709f66916b54d16c505c1ad046c81c675a61722592ff53eddad231808675f86a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6f6d7072616b617368626162752673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="omprakashbabu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashbabu&" alt="omprakashbabu" /></p>
