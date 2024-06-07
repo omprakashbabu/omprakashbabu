@@ -5,7 +5,7 @@
 
 https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
 
-<p align="left"> <a https:"https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh"><img src="https://github-profile-trophy.vercel.app/?username=omprakashbabu&ryo-ma&no-frame=true&theme=highcontrast" alt="omprakashbabu" /></a> </p>
+<p align="left"> <a https:"https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh"><img src="https://github-profile-trophy.vercel.app/?username=omprakashbabu&ryo-ma&no-frame=true&" alt="omprakashbabu" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript , Java , Postgresql**
 
