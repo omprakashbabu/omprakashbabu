@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omprakashbabu&ryo-ma&row=2" alt="omprakashbabu" /></a> </p>
 
-https://github-profile-trophy.vercel.app/?username=omprakashbabu&ryo-ma&row=2
+https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
 
 <p align="left"> <a https:"https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh"><img src="https://github-profile-trophy.vercel.app/?username=omprakashbabu" alt="omprakashbabu" /></a> </p>
 
