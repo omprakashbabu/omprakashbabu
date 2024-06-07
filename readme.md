@@ -1,13 +1,8 @@
 <h1 align="center">Wassup y'all👋, I'm Omprakash B</h1> 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HariAr2/count.svg?"/>
-</div>
- 
-<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omprakashbabu" alt="omprakashbabu" /></a> </p>
--->
+
 <p align="left"> <a https:"https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh"><img src="https://github-profile-trophy.vercel.app/?username=omprakashbabu" alt="omprakashbabu" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript , Java , Postgresql**
