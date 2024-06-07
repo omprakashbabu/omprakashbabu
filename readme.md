@@ -11,8 +11,10 @@
 <p align="center">
   - 💬 Ask me about **C and C++**
 </p>
+<p align="center">
   - 📫 How to reach me **ob5403@srmist.edu.in , omprakashb2k5@gmail.com**
-
+</p>
+<p align="center">
   - ⚡ Fun fact **I'm a funny person , I handle things cool** 
 </p>
 
