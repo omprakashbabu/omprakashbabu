@@ -19,13 +19,14 @@
 
 - ⚡ Fun fact **I'm a funny person , I handle things cool** 
 
-<h3 align="left">Connect with me:
-  <a href="https://www.instagram.com/mr_sigma_rises/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a>
-    <a href=https://www.linkedin.com/feed/ target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/frailtrap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frailtrap" height="30" width="40" /></a>
+<a href="https://instagram.com/_entity_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_entity_101" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hb2333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hb2333" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harshak_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshak_b" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/zgZTrsPGqd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/zgZTrsPGqd" height="30" width="40" /></a>
+</p>
 
 
 <p align="left">
