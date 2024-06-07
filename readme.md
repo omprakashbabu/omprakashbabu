@@ -1,9 +1,9 @@
 <h1 align="center">Wassup y'all👋, I'm Omprakash B</h1> 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omprakashbabu&ryo-ma&row=1" alt="omprakashbabu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omprakashbabu&ryo-ma&row=1&theme=darkhub alt="omprakashbabu" /></a> </p>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
 
 <p align="left"> <a https:"https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh"><img src="https://github-profile-trophy.vercel.app/?username=omprakashbabu&ryo-ma&no-frame=true&" alt="omprakashbabu" /></a> </p>
 
