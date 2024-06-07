@@ -1,9 +1,9 @@
-
-
 <h1 align="center">Wassup y'all👋, I'm Omprakash B</h1> 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omprakashbabu&ryo-ma&row=1&theme=darkhub&no-frame=true" alt="omprakashbabu" /></a> </p>
+
+![](https://camo.githubusercontent.com/c10cbc0b533dbba4f65889829d42e7748e1165ac616e8ac04c322d7878d5cfd8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f7370696e6e696e67706172726f742e676966)
 
 <p align="center">
   - 🌱 I’m currently learning **JavaScript , Java , Postgresql**
