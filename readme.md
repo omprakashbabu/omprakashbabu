@@ -3,8 +3,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omprakashbabu&ryo-ma&row=1&theme=darkhub&no-frame=true" alt="omprakashbabu" /></a> </p>
 
+<div class="parentDiv"> 
+<img src="https://camo.githubusercontent.com/db3e694adf3e8842bbb6f743275ee3123e559444a44edbfe7949c24c904f4627/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6879706e6f706172726f746c696768742e676966"> 
+</div>
+.parentDiv {  
+display: flex; 
+justify-content: center; 
+align-items: center;}
 
-<img align="center" src="https://camo.githubusercontent.com/db3e694adf3e8842bbb6f743275ee3123e559444a44edbfe7949c24c904f4627/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6879706e6f706172726f746c696768742e676966" alt="Omprakash_freak" height="30" width="40" />
 
 <p align="center">
   - 🌱 I’m currently learning **JavaScript , Java , Postgresql**
