@@ -8,16 +8,16 @@
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <p align="center">
-  - 🌱 I’m currently learning **JavaScript , Java , Postgresql**
+   🌱 I’m currently learning **JavaScript , Java , Postgresql**
 </p>
 <p align="center">
-  - 💬 Ask me about **C and C++**
+   💬 Ask me about **C and C++**
 </p>
 <p align="center">
-  - 📫 How to reach me **ob5403@srmist.edu.in , omprakashb2k5@gmail.com**
+   📫 How to reach me **ob5403@srmist.edu.in , omprakashb2k5@gmail.com**
 </p>
 <p align="center">
-  - ⚡ Fun fact **I'm a funny person , I handle things cool** 
+   ⚡ Fun fact **I'm a funny person , I handle things cool** 
 </p>
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
