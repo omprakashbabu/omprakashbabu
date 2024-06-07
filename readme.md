@@ -5,14 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omprakashbabu&ryo-ma&row=1&theme=darkhub&no-frame=true" alt="omprakashbabu" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript , Java , Postgresql**
+<p align="center">
+  - 🌱 I’m currently learning **JavaScript , Java , Postgresql**
 
-- 💬 Ask me about **C and C++**
+  - 💬 Ask me about **C and C++**
 
-- 📫 How to reach me **ob5403@srmist.edu.in
-                        , omprakashb2k5@gmail.com**
+  - 📫 How to reach me **ob5403@srmist.edu.in , omprakashb2k5@gmail.com**
 
-- ⚡ Fun fact **I'm a funny person , I handle things cool** 
+  - ⚡ Fun fact **I'm a funny person , I handle things cool** 
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
