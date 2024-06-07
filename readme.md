@@ -7,9 +7,10 @@
 
 <p align="center">
   - 🌱 I’m currently learning **JavaScript , Java , Postgresql**
-
+</p>
+<p align="center">
   - 💬 Ask me about **C and C++**
-
+</p>
   - 📫 How to reach me **ob5403@srmist.edu.in , omprakashb2k5@gmail.com**
 
   - ⚡ Fun fact **I'm a funny person , I handle things cool** 
