@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omprakashbabu&show_icons=true&theme=highcontrast&locale=en" alt="harshak-b" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashbabu&theme=highcontrast" alt="omprakashbabu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashbabu&theme=highcontrast" alt="omprakashbabu" /></p>
