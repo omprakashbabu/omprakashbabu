@@ -50,8 +50,9 @@ I'm a passionate fullstack developer from India, currently building projects and
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashbabu&theme=tokyonight"/>
 </p>  
 
+---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake  
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/omprakashbabu/omprakashbabu/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -61,4 +62,5 @@ I'm a passionate fullstack developer from India, currently building projects and
 </p>
 
 ---
+
 ✨ *Always building, always learning.*  
