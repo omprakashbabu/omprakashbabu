@@ -14,7 +14,7 @@ ServiceNow CSA and CAD certified
 ---
 
 ## 🌐 Connect with Me  
-<p align="left">
+<p align="center">
   <a href="https://x.com/Omprakash_freak" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/evrythngboume/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/dashboard" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
@@ -24,7 +24,7 @@ ServiceNow CSA and CAD certified
 ---
 
 ## 🛠️ Tech Stack  
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
