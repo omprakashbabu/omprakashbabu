@@ -49,9 +49,15 @@ I'm a passionate fullstack developer from India, currently building projects and
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashbabu&theme=tokyonight"/>
 </p>  
+
+
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github.com/omprakashbabu/omprakashbabu/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/omprakashbabu/omprakashbabu/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/omprakashbabu/omprakashbabu/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/omprakashbabu/omprakashbabu/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
