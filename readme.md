@@ -63,10 +63,13 @@ I'm a passionate software developer from India, currently building projects and 
 
 ---
 
-## 📅 Contributions Calendar  
+##  GitHub Breakout Game
 <p align="center">
-  <img src="https://github-contributions-api.deno.dev/omprakashbabu.svg" alt="GitHub Contributions Calendar" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+    <img alt="Breakout Game based on my GitHub contributions" src="images/breakout-light.svg" />
+  </picture>
 </p>
 
 ---
-
