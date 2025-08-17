@@ -65,4 +65,3 @@ I'm a passionate software developer from India, currently building projects and 
 
 ---
 
-✨ *Always building, always learning.*  
