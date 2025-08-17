@@ -3,12 +3,12 @@
 🚀 Fullstack Developer | 💡 Problem Solver | 🎯 Lifelong Learner  
 
 I'm a passionate software developer from India, currently building projects and sharpening my skills in modern web development. I enjoy creating efficient, scalable solutions and exploring new technologies.  
-ServiceNow CSA and CAD certified 
+**Certified ServiceNow CSA and CAD developer**
 
 ---
 
 ## 🔥 About Me   
-- 💬 Ask me about C++
+- 💬 Ask me about **C++**
 - 📫 Reach me at: **ob5403@srmist.edu.in | omprakashb2k5@gmail.com**  
 
 ---
