@@ -2,15 +2,14 @@
 
 🚀 Fullstack Developer | 💡 Problem Solver | 🎯 Lifelong Learner  
 
-I'm a passionate fullstack developer from India, currently building projects and sharpening my skills in modern web development. I enjoy creating efficient, scalable solutions and exploring new technologies.  
+I'm a passionate software developer from India, currently building projects and sharpening my skills in modern web development. I enjoy creating efficient, scalable solutions and exploring new technologies.  
+ServiceNow CSA and CAD certified 
 
 ---
 
-## 🔥 About Me  
-- 🌱 Currently learning **JavaScript, Java, PostgreSQL**  
-- 💬 Ask me about **C and C++**  
+## 🔥 About Me   
+- 💬 Ask me about C++
 - 📫 Reach me at: **ob5403@srmist.edu.in | omprakashb2k5@gmail.com**  
-- ⚡ Fun fact: *I stay calm and cool, even under pressure*  
 
 ---
 
