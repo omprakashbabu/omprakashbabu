@@ -63,3 +63,10 @@ I'm a passionate software developer from India, currently building projects and 
 
 ---
 
+## 📅 Contributions Calendar  
+<p align="center">
+  <img src="https://github-contributions-api.deno.dev/omprakashbabu.svg" alt="GitHub Contributions Calendar" />
+</p>
+
+---
+
