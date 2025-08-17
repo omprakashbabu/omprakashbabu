@@ -1,42 +1,54 @@
-![](https://wallpapercave.com/wp/wp2863977.gif)
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-<h1 align="center">Wassup y'all👋, I'm Omprakash B</h1> 
-<h3 align="center">A passionate fullstack developer from India</h3>
+# 👋 Hi, I'm Omprakash B  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omprakashbabu&ryo-ma&row=1&theme=darkhub&no-frame=true" alt="omprakashbabu" /></a> </p>
+🚀 Fullstack Developer | 💡 Problem Solver | 🎯 Lifelong Learner  
 
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+I'm a passionate fullstack developer from India, currently building projects and sharpening my skills in modern web development. I enjoy creating efficient, scalable solutions and exploring new technologies.  
+
+---
+
+## 🔥 About Me  
+- 🌱 Currently learning **JavaScript, Java, PostgreSQL**  
+- 💬 Ask me about **C and C++**  
+- 📫 Reach me at: **ob5403@srmist.edu.in | omprakashb2k5@gmail.com**  
+- ⚡ Fun fact: *I stay calm and cool, even under pressure*  
+
+---
+
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://x.com/Omprakash_freak" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/evrythngboume/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/dashboard" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/om_om/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>  
+
+---
+
+## 🛠️ Tech Stack  
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omprakashbabu&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakashbabu&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
 <p align="center">
-   🌱 I’m currently learning **JavaScript , Java , Postgresql**
-</p>
-<p align="center">
-   💬 Ask me about **C and C++**
-</p>
-<p align="center">
-   📫 How to reach me **ob5403@srmist.edu.in , omprakashb2k5@gmail.com**
-</p>
-<p align="center">
-   ⚡ Fun fact **I'm a funny person , I handle things cool** 
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashbabu&theme=tokyonight"/>
+</p>  
 
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://x.com/Omprakash_freak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Omprakash_freak" height="30" width="40" /></a>
-<a href="https://www.instagram.com/evrythngboume/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hb2333" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/om_om/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="om_om" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakashbabu&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="omprakashbabu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omprakashbabu&show_icons=true&theme=highcontrast&locale=en" alt="harshak-b" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashbabu&theme=highcontrast" alt="omprakashbabu" /></p>
+---
+✨ *Always building, always learning.*  
