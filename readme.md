@@ -44,6 +44,7 @@ I'm a passionate software developer from India, currently building projects and 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omprakashbabu&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakashbabu&layout=compact&theme=tokyonight" height="180em"/>
+  [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=omprakashbabu)](https://github.com/anuraghazra/github-readme-stats)   
 </p>
 
 <p align="center">
