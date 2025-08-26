@@ -47,8 +47,11 @@ I'm a passionate software developer from India, currently building projects and 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omprakashbabu&theme=tokyonight"/>
+  <a href="https://github.com/omprakashbabu">
+    <img src="https://streak-stats.demolab.com/?user=omprakashbabu&theme=tokyonight" />
+  </a>
 </p>
+
 
 
 ---
