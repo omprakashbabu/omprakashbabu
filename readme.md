@@ -47,8 +47,9 @@ I'm a passionate software developer from India, currently building projects and 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashbabu&theme=tokyonight"/>
-</p>  
+  <img src="https://streak-stats.demolab.com/?user=omprakashbabu&theme=tokyonight"/>
+</p>
+
 
 ---
 
