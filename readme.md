@@ -50,12 +50,6 @@ I'm a passionate software developer from India, currently building projects and 
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=omprakashbabu&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omprakashbabu&layout=compact&theme=tokyonight)
-
-
-
-
-
 ---
 
 ##  GitHub Breakout Game
