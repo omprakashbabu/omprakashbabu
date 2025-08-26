@@ -46,11 +46,7 @@ I'm a passionate software developer from India, currently building projects and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakashbabu&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/omprakashbabu">
-    <img src="https://streak-stats.demolab.com/?user=omprakashbabu&theme=tokyonight" />
-  </a>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=omprakashbabu&theme=tokyonight)
 
 
 
