@@ -52,7 +52,6 @@ I'm a passionate software developer from India, currently building projects and 
 
 ---
 
-##  GitHub Breakout Game
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
