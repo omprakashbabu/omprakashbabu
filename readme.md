@@ -3,7 +3,7 @@
   
 # 👋 Hi, I'm Omprakash B
  
-🚀 Fullstack Developer | 💡 Problem Solver | 🎯 Lifelong Learner  
+🚀 Fullstack Developer | 💡 Problem Solver | 🎯 Lifelong Learner   
  
 I'm a passionate software developer from India, currently building projects and sharpening my skills in modern web development. I enjoy creating efficient, scalable solutions and exploring new technologies.  
 **Certified ServiceNow CSA and CAD developer**
