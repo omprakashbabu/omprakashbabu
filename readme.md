@@ -10,7 +10,7 @@ I'm a passionate software developer from India, currently building projects and 
  
 ---
   
-## 🔥 About Me   
+## 🔥 About Me    
 - 💬 Ask me about **C++**
 - 📫 Reach me at: **ob5403@srmist.edu.in | omprakashb2k5@gmail.com**  
 
