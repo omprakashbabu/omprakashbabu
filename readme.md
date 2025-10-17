@@ -26,7 +26,7 @@ I'm a passionate software developer from India, currently building projects and 
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack   
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
